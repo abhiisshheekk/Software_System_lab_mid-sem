@@ -1,0 +1,18 @@
+crow
+Hello world!
+Hello
+crow
+Hello World
+crow
+Hello World
+
+simple = "easily understandable"
+word = "combination of letters"
+
+simple = "easily understandable"
+word = "combination of letters"
+
+180010002
+
+crow
+Hello world!
